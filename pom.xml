@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>45fe9fe3-71e9-4c7f-99b4-aade424656d9</groupId>
 	<artifactId>maven-cicdDev</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.3</version>
 	<packaging>mule-application</packaging>
 	<name>maven-cicdDev</name>
 	<properties>
